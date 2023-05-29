@@ -1,6 +1,6 @@
 ### Hello, World! Welcome to Thayná Marins' GitHub
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and C.
+- 🌱 I'm a Computer Science student at the Fluminense Federal University.  
 
 <div>
   <a href="https://github.com/thaynamarinss">
