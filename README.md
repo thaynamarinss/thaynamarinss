@@ -11,13 +11,13 @@
  <a href="https://www.linkedin.com/in/thaynamarinss/" targer="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targer="_blank"></a>
   
   <div style="display: inline_block"><br>    
-   <img align="right" src="https://i.picasion.com/pic92/05e404ebabd7de39852e39e514457fbb.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+   <img align="right" src="https://i.picasion.com/pic92/839d5f8c1f5516cd286f66201b8a1587.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
  </div> 
  
 <hr></hr>
 
  <!---!-https://i.picasion.com/pic91/56e67275882f9ba2be3b2c9073f3a0a0.gif--->
-  
+  <!--[https://i.picasion.com/pic92/839d5f8c1f5516cd286f66201b8a1587.gif](https://i.picasion.com/pic92/05e404ebabd7de39852e39e514457fbb.gif)-->
   <div>
  
     
